@@ -1,0 +1,13 @@
+.container{
+  flex-direction: column;
+  background-color:#2d283e;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.head{
+  color: aliceblue;
+  margin-bottom: 3rem;
+  padding: 2rem;
+}
